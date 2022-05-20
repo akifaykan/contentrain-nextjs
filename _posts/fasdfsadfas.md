@@ -11,7 +11,10 @@ author:
   name: "Akif"
   picture: "public/assets/1653045298720_N0Aek_Jc_400x400.jpg"
   createdAt: 1653045299570
-ogImage: []
+ogImage:
+  ID: "bd8a88ef-b400-470a-8133-9c09d0bdb813"
+  url: "public/assets/1653045314794_N0Aek_Jc_400x400.jpg"
+  createdAt: 1653045315668
 createdAt: 1653044869258
 
 ---
